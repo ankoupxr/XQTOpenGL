@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/Image/Apex.jpg</file>
+    </qresource>
+</RCC>
